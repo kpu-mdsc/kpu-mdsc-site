@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kpu-mdsc-site.vercel.app/'
 languageCode = 'ja-JP'
 title = 'KPU-数理・DSセンター（非公式）'
 theme = "PaperMod"
@@ -9,7 +9,18 @@ theme = "PaperMod"
       unsafe = true
 
 [params]
-disableSpecial1stPost = true
+  disableSpecial1stPost = true
+  ShowPostNavLinks = true
+  ShowReadingTime = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  ShowPostCategories = true
+  ShowPostTags = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [menu]
   [[menu.main]]
