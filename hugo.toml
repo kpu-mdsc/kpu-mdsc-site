@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja-JP'
+title = 'KPU-数理・DSセンター（非公式）'
+theme = "PaperMod"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+disableSpecial1stPost = true
+
+[menu]
+  [[menu.main]]
+    name = "教育プログラム"
+    url = "/education/"
+    weight = 10

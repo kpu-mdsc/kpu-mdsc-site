@@ -1,0 +1,17 @@
+# Hugo build lock file
+.hugo_build.lock
+
+# ビルド成果物（毎回生成されるのでGitには不要）
+public/
+
+# ローカルの設定ファイルやログ
+.DS_Store
+*.log
+
+# VS Code の設定ファイルなど（任意）
+.vscode/
+
+# OSやエディタが生成する不要ファイル
+Thumbs.db
+*.swp
+*.swo
