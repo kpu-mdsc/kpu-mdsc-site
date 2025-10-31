@@ -1,6 +1,6 @@
-baseURL = 'https://kpu-mdsc-site.vercel.app/'
+baseURL = 'https://mdsc.kaishi-pu.ac.jp/'
 languageCode = 'ja-JP'
-title = 'KPU-数理・DSセンター（非公式）'
+title = 'KPU-数理・データサイエンスセンター'
 theme = "PaperMod"
 
 [markup]
