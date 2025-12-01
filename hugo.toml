@@ -24,6 +24,11 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
+    name = "News"
+    url = "/posts/"
+    weight = 5
+    
+  [[menu.main]]
     name = "教育プログラム"
     url = "/education/"
     weight = 10
