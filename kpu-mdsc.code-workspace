@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "数理・DSセンター (gdrive)",
+			"path": "../../../mnt/gdrive/02_Work/KPU/04_管理運営/数理・DSセンター"
+		},
+		{
+			"name": "kpu-mdsc-site",
+			"path": "."
+		},
+		{
+			"name": "数理・DSセンター (OneDrive個人)",
+			"path": "../../../Library/CloudStorage/OneDrive-開志専門職大学/開志専門職大学/04_管理運営/数理・DSセンター"
+		},
+		{
+			"name": "数理・データサイエンスセンター - ドキュメント (OneDrive共有)",
+			"path": "../../../Library/CloudStorage/OneDrive-共有ライブラリ-開志専門職大学/数理・データサイエンスセンター - ドキュメント"
+		}
+	]
+}
