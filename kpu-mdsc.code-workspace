@@ -1,12 +1,12 @@
 {
 	"folders": [
 		{
-			"name": "数理・DSセンター (gdrive)",
-			"path": "../../../mnt/gdrive/02_Work/KPU/04_管理運営/数理・DSセンター"
-		},
-		{
 			"name": "kpu-mdsc-site",
 			"path": "."
+		},
+		{
+			"name": "数理・DSセンター (gdrive)",
+			"path": "../../../mnt/gdrive/02_Work/KPU/04_管理運営/数理・DSセンター"
 		},
 		{
 			"name": "数理・DSセンター (OneDrive個人)",
