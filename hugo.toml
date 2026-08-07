@@ -1,6 +1,6 @@
 baseURL = 'https://mdsc.kaishi-pu.ac.jp/'
 languageCode = 'ja-JP'
-title = 'KPU-数理・データサイエンスセンター'
+title = '開志AI・数理データサイエンスセンター'
 theme = "PaperMod"
 
 [markup]
